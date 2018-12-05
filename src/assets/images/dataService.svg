@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>数据服务_Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="72" height="72" rx="4"></rect>
+    </defs>
+    <g id="1-吉利数据门户网站" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-791.000000, -628.000000)">
+        <g id="数据服务" transform="translate(683.000000, 604.000000)">
+            <g id="数据服务_Icon" transform="translate(108.000000, 24.000000)">
+                <g id="Rectangle-42-Copy-6" opacity="0">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#D6DAE6" stroke-width="1" x="0.5" y="0.5" width="71" height="71" rx="4"></rect>
+                </g>
+                <g id="数据服务" transform="translate(5.000000, 2.000000)">
+                    <g>
+                        <g id="Group-24" transform="translate(10.000000, 0.000000)">
+                            <g id="Group-23" transform="translate(13.689655, 1.793103)">
+                                <ellipse id="Oval-4" stroke="#3AB483" stroke-width="2" cx="10.3103448" cy="22.2068966" rx="10.3103448" ry="22.2068966"></ellipse>
+                                <circle id="Oval-6" fill="#3AB483" cx="10.3103448" cy="3.96551724" r="1"></circle>
+                                <circle id="Oval-6-Copy" fill="#3AB483" cx="10.3103448" cy="40.4482759" r="1"></circle>
+                            </g>
+                            <g id="Group-23" transform="translate(23.920013, 24.334524) rotate(45.000000) translate(-23.920013, -24.334524) translate(13.420013, 1.834524)">
+                                <ellipse id="Oval-4" stroke="#3AB483" stroke-width="2" cx="10.3103448" cy="22.2068966" rx="10.3103448" ry="22.2068966"></ellipse>
+                                <circle id="Oval-6" fill="#3AB483" cx="10.3103448" cy="3.96551724" r="1"></circle>
+                                <circle id="Oval-6-Copy" fill="#3AB483" cx="10.3103448" cy="40.4482759" r="1"></circle>
+                            </g>
+                            <g id="Group-23" transform="translate(23.706897, 24.189655) rotate(90.000000) translate(-23.706897, -24.189655) translate(13.206897, 1.689655)">
+                                <ellipse id="Oval-4" stroke="#3AB483" stroke-width="2" cx="10.3103448" cy="22.2068966" rx="10.3103448" ry="22.2068966"></ellipse>
+                                <circle id="Oval-6" fill="#3AB483" cx="10.3103448" cy="3.96551724" r="1"></circle>
+                                <circle id="Oval-6-Copy" fill="#3AB483" cx="10.3103448" cy="40.4482759" r="1"></circle>
+                            </g>
+                            <g id="Group-23" transform="translate(23.651800, 23.920013) rotate(135.000000) translate(-23.651800, -23.920013) translate(13.151800, 1.420013)">
+                                <ellipse id="Oval-4" stroke="#3AB483" stroke-width="2" cx="10.3103448" cy="22.2068966" rx="10.3103448" ry="22.2068966"></ellipse>
+                                <circle id="Oval-6" fill="#3AB483" cx="10.3103448" cy="3.96551724" r="1"></circle>
+                                <circle id="Oval-6-Copy" fill="#3AB483" cx="10.3103448" cy="40.4482759" r="1"></circle>
+                            </g>
+                        </g>
+                        <g id="Group-26" transform="translate(0.000000, 47.000000)" stroke="#CECECE" stroke-width="2">
+                            <path d="M15,3.21852295 L15,19.0383574 C26.8455968,19.1582973 36.5386766,19.1549808 43.9937428,19.0336553 C50.307718,18.3622218 56.0587248,14.308804 61.2562535,6.78728643 C61.3505437,6.65083689 61.4339603,6.50718544 61.5057324,6.35765984 C62.2619991,4.78209818 61.5978293,2.89177777 60.0222676,2.13551104 L58.3165806,1.31678439 C57.1578181,0.760580472 55.7791661,0.947702109 54.8105786,1.79264693 L51.4692171,4.70714223 L42.3984057,12.2690807 L42.5609625,9.93065196 C42.5710337,9.7857749 42.5760738,9.64059196 42.5760738,9.49536527 C42.5760738,6.02876098 39.7658358,3.21852295 36.2992315,3.21852295 L15,3.21852295 Z" id="Path-5"></path>
+                            <rect id="Rectangle-23" x="1" y="1" width="10" height="20" rx="3"></rect>
+                            <path d="M25,11 L43,11" id="Path-6" stroke-linecap="round" stroke-linejoin="round"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

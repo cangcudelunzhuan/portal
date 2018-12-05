@@ -1,0 +1,243 @@
+
+/**产品中心**/
+.content {
+  width: 84%;
+  margin: 0 auto;
+  overflow: hidden;
+  clear: both
+}
+.products {
+  width: 100%;
+  max-width: 1366px;
+  background: #FFFFFF;
+  border-radius: 10px;
+  margin: 54px auto 0 auto;
+  padding: 0 22px;
+  box-sizing: border-box;
+  border: 1px solid #F0F0F0;
+}
+.products:hover {
+  box-shadow: 0 2px 16px 0 rgba(0,0,0,0.05);
+}
+.header {
+  border-bottom: 1px dashed #D6DAE6;
+  clear: both;
+  height: 84px
+}
+.headNews {
+  float: left;
+}
+.headNews dt {
+	float: left;
+	width: 98px;
+	height: 98px;
+	margin-right: 28px;
+ 	margin-top: -30px
+}
+.headNews dt img {
+	width: 100%
+}
+.headNews dd {
+	float: left;
+	margin-top: 11px;
+	font-size: 12px;
+	color: #515152;
+	line-height: 28px;
+	vertical-align: middle;
+}
+.headNews dd .auth {
+	font-size: 20px;
+	margin-right: 8px
+}
+a.more {
+  float: right;
+  font-size: 14px;
+  color: #515152;
+  line-height: 84px;
+  letter-spacing: 1px
+}
+.more img {
+	display: inline-block;
+  margin-left: 4px;
+}
+.more.up img {
+  transform: rotate(180deg);
+}
+
+/**应用**/
+.product {
+  padding: 24px 0 0 0;
+  min-height: 254px;
+  overflow: hidden;
+  transition: height 0.5s ease
+}
+.active {
+  transition: height 0.5s ease
+}
+.product dl {
+	width: 100%;
+	height: 104px;
+	display: inline-block;
+	float: left;
+	margin-bottom: 24px;
+	padding: 18px 12px;
+	box-sizing: border-box;
+	cursor: pointer;
+}
+.product dl:hover {
+	background: #FFFFFF;
+	border: 1px solid #F0F0F0;
+	box-shadow: 0 2px 16px 0 rgba(0,0,0,0.05);
+	border-radius: 4px;
+	box-sizing: border-box;
+}
+.product dt {
+	float: left;
+  margin-right: 16px
+}
+.product dt img {
+	width: 72px;
+	height: 72px;
+}
+.product dd {
+	text-align: left;
+  width: 100%
+}
+.product .title {
+	font-family: PingFangSC-Semibold;
+	font-size: 16px;
+	color: #515152;
+	font-weight: bold
+}
+.product .desc {
+	font-family: PingFangSC-Regular;
+	font-size: 12px;
+	color: #8E8E8F;
+	line-height: 21px;
+	margin-top: 8px;
+  overflow: hidden;
+  height: 46px
+}
+
+/**产品增加按钮**/
+.header .last {
+  float: right;
+  margin-top: 13px;
+  cursor: pointer;
+}
+.header .last img {
+  padding: 5px;
+  border: 1px solid #D6DAE6;
+  border-radius: 10px;
+  box-sizing: border-box;
+  width: 35px;
+  height: 35px;
+  vertical-align: middle;
+  margin-bottom: 5px
+}
+.header .last .title {
+	line-height: 72px
+}
+/*弹窗样式*/
+.el-dialog {
+	height: 486px;
+}
+.el-dialog__header {
+	text-align: left;
+	font-size: 16px;
+	color: #515152;
+	border-bottom: 1px solid #D6DAE6;
+	margin: 0 24px 0 24px;
+	font-weight: bold;
+	padding: 10px 0!important;
+}
+.el-dialog__title {
+	font-size: 16px!important;
+}
+.el-dialog__body {
+	padding: 0 24px 0 24px!important;
+}
+.appCon {
+	height: 415px;
+	overflow-y: scroll;
+	font-family: PingFangSC-Regular;
+	font-size: 12px;
+	color: #515152;
+}
+.appCon>p {
+	margin: 15px 0 0;
+	line-height: 18px;
+	text-align: left;
+	font-weight: bold
+}
+.appCon .dragArea {
+	overflow: hidden;
+	padding: 10px 0;
+	border-bottom: 1px dashed #D6DAE6;
+	min-height: 115px;
+}
+.appCon .appWrap {
+	float: left;
+	margin: 10px 17px;
+	width: 48px;
+	height: 95px;
+	position: relative;
+	color: #515152;
+}
+.appCon .appWrap img {
+	background: #FFFFFF;
+	border: 1px solid #F0F0F0;
+	border-radius: 4px;
+	width: 100%;
+	cursor: pointer
+}
+.appCon .appWrap img:hover {
+	box-shadow: 0 2px 16px 0 rgba(0,0,0,0.05);
+}
+.appCon .appWrap .active img {
+  background: #FFFFFF;
+  border-radius: 10px;
+  width: 100%;
+  cursor: pointer;
+  width: 12px;
+  height: 12px;
+}
+.appCon .appWrap>p {
+	line-height: 21px;
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 2;
+	overflow: hidden;
+}
+.appCon .appWrap .active {
+	display: none;
+	width: 12px;
+	height: 12px;
+}
+.appCon .appWrap .tooltip {
+	position: absolute;
+	width: 64px;
+	height: 18px;
+	line-height: 18px;
+	text-align: center;
+	color: #515152;
+	border-radius: 5px;
+	background: #fff 85%;
+	border: 1px solid #eee;
+	top: 15px;
+	right:-64px;
+	z-index: 1;
+}
+/**已添加hover**/
+.appCon .appWrap:hover .active {
+	position: absolute;
+	right: -2px;
+	top: -5px;
+	display: block;
+	cursor: pointer;
+}
+
+.el-row {
+  max-width: 1366px;
+  margin: 0 auto!important;
+}

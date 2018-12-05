@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="73px" viewBox="0 0 72 73" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>数据产品_Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="72" height="72" rx="4"></rect>
+        <rect id="path-2" x="0" y="0" width="56" height="72" rx="3"></rect>
+        <polygon id="path-3" points="12.1917929 0.415650558 15.2963624 2.74407768 12.1917929 5.07250481"></polygon>
+        <rect id="path-4" x="11" y="19" width="2" height="6" rx="1"></rect>
+        <rect id="path-5" x="18" y="21" width="2" height="4" rx="1"></rect>
+        <rect id="path-6" x="25" y="16" width="2" height="9" rx="1"></rect>
+        <rect id="path-7" x="9" y="26" width="20" height="2" rx="1"></rect>
+    </defs>
+    <g id="1-吉利数据门户网站" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1079.000000, -628.000000)">
+        <g id="数据产品" transform="translate(971.000000, 604.000000)">
+            <g id="数据产品_Icon" transform="translate(108.000000, 24.000000)">
+                <g id="Group-6">
+                    <g id="Group-29">
+                        <g id="Rectangle-42-Copy-3" opacity="0">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            <rect stroke="#D6DAE6" stroke-width="1" x="0.5" y="0.5" width="71" height="71" rx="4"></rect>
+                        </g>
+                        <g id="数据产品" transform="translate(8.000000, 1.000000)">
+                            <g>
+                                <g id="数据产品-copy-2">
+                                    <g id="Rectangle-9">
+                                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                                        <rect stroke="#EEEEEE" stroke-width="2" x="1" y="1" width="54" height="70" rx="3"></rect>
+                                    </g>
+                                </g>
+                                <rect id="Rectangle-14" fill="#EEEEEE" x="8" y="8" width="16" height="16" rx="2"></rect>
+                                <rect id="Rectangle-14-Copy-2" fill="#ECECEC" x="8" y="28" width="16" height="16" rx="2"></rect>
+                                <rect id="Rectangle-14-Copy-4" fill="#ECECEC" x="8" y="48" width="16" height="16" rx="2"></rect>
+                                <rect id="Rectangle-14-Copy" fill="#ECECEC" x="32" y="8" width="16" height="16" rx="2"></rect>
+                                <rect id="Rectangle-14-Copy-3" fill="#ECECEC" x="32" y="28" width="16" height="16" rx="2"></rect>
+                                <rect id="Rectangle-14-Copy-5" fill="#ECECEC" x="32" y="48" width="16" height="16" rx="2"></rect>
+                                <circle id="Oval-8" fill="#FFFFFF" cx="26.5" cy="33.5" r="17.5"></circle>
+                                <g id="Group-3" transform="translate(7.000000, 14.000000)">
+                                    <g id="搜索" fill="#F65844">
+                                        <path d="M2,19.2504375 C2,9.73802083 9.73758333,2.0004375 19.25,2.0004375 C28.7624167,2.0004375 36.5,9.73802083 36.5,19.2504375 C36.5,28.7628542 28.7624167,36.5004375 19.25,36.5004375 C9.73758333,36.5004375 2,28.7628542 2,19.2504375 Z M34.041,31.5651875 C36.8235,28.2279375 38.5,23.9351875 38.5,19.2504375 C38.5,8.6191875 29.88125,0.0004375 19.25,0.0004375 C8.61875,0.0004375 0,8.6191875 0,19.2504375 C0,29.8816875 8.61875,38.5004375 19.25,38.5004375 C23.93475,38.5004375 28.2275,36.8239375 31.56475,34.0414375 L39.0145,41.4894375 C39.69525,42.1701875 40.80825,42.1701875 41.489,41.4894375 C42.16975,40.8086875 42.16975,39.6956875 41.489,39.0149375 L34.041,31.5651875 Z"></path>
+                                    </g>
+                                    <g id="Group-25" transform="translate(13.000000, 7.000000)">
+                                        <polyline id="Path-2" stroke="#F65844" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="0 6.17836767 5.95641728 10.6925539 13.6399756 2.88157656"></polyline>
+                                        <g id="Rectangle-13" transform="translate(13.744078, 2.744078) rotate(-45.000000) translate(-13.744078, -2.744078) ">
+                                            <use fill="#F65844" fill-rule="evenodd" xlink:href="#path-3"></use>
+                                            <path stroke="#F65844" stroke-width="1" d="M12.6917929,1.41565056 L12.6917929,4.07250481 L14.4630291,2.74407768 L12.6917929,1.41565056 Z"></path>
+                                        </g>
+                                    </g>
+                                    <g id="Rectangle-20">
+                                        <use fill="#F65844" fill-rule="evenodd" xlink:href="#path-4"></use>
+                                        <rect stroke="#F65844" stroke-width="1" x="11.5" y="19.5" width="1" height="5" rx="0.5"></rect>
+                                    </g>
+                                    <g id="Rectangle-20-Copy">
+                                        <use fill="#F65844" fill-rule="evenodd" xlink:href="#path-5"></use>
+                                        <rect stroke="#F65844" stroke-width="1" x="18.5" y="21.5" width="1" height="3" rx="0.5"></rect>
+                                    </g>
+                                    <g id="Rectangle-20-Copy-2">
+                                        <use fill="#F65844" fill-rule="evenodd" xlink:href="#path-6"></use>
+                                        <rect stroke="#F65844" stroke-width="1" x="25.5" y="16.5" width="1" height="8" rx="0.5"></rect>
+                                    </g>
+                                    <g id="Rectangle-21">
+                                        <use fill="#F65844" fill-rule="evenodd" xlink:href="#path-7"></use>
+                                        <rect stroke="#F65844" stroke-width="2" x="10" y="27" width="18" height="1" rx="0.5"></rect>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

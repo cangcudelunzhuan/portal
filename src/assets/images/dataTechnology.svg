@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>数据技术_Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="1" y="1" width="72" height="72" rx="4"></rect>
+        <rect id="path-2" x="6" y="0" width="58" height="50" rx="2"></rect>
+        <rect id="path-3" x="0" y="6" width="58" height="50" rx="2"></rect>
+        <rect id="path-4" x="0" y="21" width="57" height="2"></rect>
+    </defs>
+    <g id="1-吉利数据门户网站" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-503.000000, -628.000000)">
+        <g id="数据技术" transform="translate(395.000000, 604.000000)">
+            <g id="数据技术_Icon" transform="translate(107.000000, 23.000000)">
+                <g id="Group-2">
+                    <g id="Rectangle-42-Copy-3" opacity="0">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <rect stroke="#D6DAE6" stroke-width="1" x="1.5" y="1.5" width="71" height="71" rx="4"></rect>
+                    </g>
+                    <g id="Group-35" opacity="0.500509511">
+                        <g id="数据技术" transform="translate(5.000000, 9.000000)">
+                            <g id="Group-26-Copy" transform="translate(0.000000, 32.000000)"></g>
+                            <g id="流程-技术开发" transform="translate(16.000000, 0.000000)"></g>
+                        </g>
+                    </g>
+                    <g id="数据技术" transform="translate(5.000000, 9.000000)">
+                        <g id="Group-21-Copy-6">
+                            <g id="数据技术">
+                                <g id="Group-14">
+                                    <g id="1">
+                                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                                        <rect stroke="#286AAB" stroke-width="2" x="7" y="1" width="56" height="48" rx="2"></rect>
+                                    </g>
+                                    <g id="2">
+                                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                                        <rect stroke="#286AAB" stroke-width="2" x="1" y="7" width="56" height="48" rx="2"></rect>
+                                    </g>
+                                    <g id="Rectangle-24">
+                                        <use fill="#286AAB" fill-rule="evenodd" xlink:href="#path-4"></use>
+                                        <rect stroke="#286AAB" stroke-width="1" x="0.5" y="21.5" width="56" height="1"></rect>
+                                    </g>
+                                    <path d="M20,14.4999597 C20,15.8807509 21.1192491,17 22.5000403,17 C23.8807509,17 25,15.8807509 25,14.4999597 C25,13.1192491 23.8807509,12 22.5000403,12 C21.1192491,12 20,13.1192491 20,14.4999597 Z" id="Fill-3" fill="#286AAB"></path>
+                                    <path d="M8.49871097,16.9999999 C9.87934642,17.0003221 10.9990332,15.8822762 10.9999999,14.5022549 L10.9999999,14.5003221 C11.0003222,13.1203009 9.88119941,12.0009665 8.50120847,12.0000001 C7.12033132,11.9996779 6.00088628,13.1183681 6.00000007,14.4978256 L6.00000007,14.4996779 C5.99967781,15.8804239 7.11839777,16.9994362 8.49871097,16.9999999 Z" id="Fill-1" fill="#286AAB"></path>
+                                    <path d="M15.4992346,16.9999999 C16.8802589,17.0003221 17.9996774,15.8822762 17.9999997,14.5022549 L17.9999997,14.5003221 C18.0006443,13.1203009 16.882112,12.0009665 15.5010876,12.0000001 C14.1204661,11.9996779 13.000967,13.1183681 13.0000002,14.4978256 L13.0000002,14.4996779 C12.9994362,15.8804239 14.1185325,16.9994362 15.4992346,16.9999999 Z" id="Fill-7" fill="#286AAB"></path>
+                                    <polygon id="Fill-8" fill="#286AAB" points="32 31 30.0332008 31.003063 26 43 27.9770464 43"></polygon>
+                                    <polygon id="Fill-9" fill="#286AAB" points="40 35 40.0075137 36.6828868 45.135154 38.9321718 40.0420618 41.385834 40.0428721 43 47.9985267 39.5745928 48 38.8798402 47.9977164 38.195635"></polygon>
+                                    <polygon id="Fill-10" fill="#286AAB" points="10 38.879555 10.000884 39.5746392 17.9568332 43 17.9577172 41.3865478 12.8645513 38.9322116 17.9924863 36.6829038 18 35 10.0020626 38.1956674"></polygon>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

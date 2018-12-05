@@ -1,0 +1,86 @@
+.languageMenu, .languageMenu .el-menu {
+  float: left;
+  width: 80px;
+}
+.languageMenu .el-submenu .el-submenu__title,
+.languageMenu .el-submenu.is-active .el-submenu__title {
+  opacity: 0.5;
+  background: #292C4B;
+}
+.el-menu--horizontal .el-submenu:focus>.el-submenu__title {
+  color: #fff;
+}
+.el-menu--horizontal.languageMenu .el-submenu {
+  margin-left: 10px;
+}
+.el-menu--horizontal.languageMenu .el-submenu>.el-menu {
+  background: #292C4B;
+  opacity: 0.5;
+}
+.el-menu--horizontal.languageMenu .el-submenu .el-menu-item {
+  padding: 0 20px;
+}
+.el-menu--horizontal.languageMenu .el-submenu>.el-menu {
+  top: 60px;
+}
+.el-menu.loginMenu {
+  float: right;
+}
+
+.el-menu > div {
+  outline: transparent;
+}
+.el-menu--horizontal,
+.el-menu--horizontal>.el-menu-item.is-active {
+  background: none;
+  border: none
+}
+.el-menu--horizontal .el-submenu .el-submenu__title:hover {
+  background: none!important;
+}
+.el-menu--horizontal.languageMenu .el-submenu .el-submenu__title:hover {
+  background: #292C4B!important;
+}
+.el-menu--horizontal .el-menu-item {
+  color: #fff;
+  float: right
+}
+.el-menu--horizontal .el-menu-item:hover,
+.el-menu--horizontal .el-menu-item:focus{
+  color: #fff;
+  background: none;
+  font-weight: bold;
+}
+.el-menu--horizontal .el-submenu .el-submenu__title,
+.el-menu--horizontal>.el-submenu.is-active .el-submenu__title {
+  color: #fff;
+  border: none;
+}
+.el-submenu.is-active .el-submenu__title {
+  background: none;
+  border: none;
+}
+.el-menu {
+  background: none
+}
+.el-menu--horizontal .el-submenu>.el-menu {
+  top: 55px;
+}
+.el-menu--horizontal .el-submenu>.el-menu,
+.el-menu--horizontal .el-submenu .el-menu-item {
+  background: none;
+}
+.el-menu--horizontal.loginMenu .el-submenu .el-menu-item {
+  padding: 0 20px;
+  height: 22px;
+  line-height: 22px;
+}
+.languageMenu .el-submenu .el-menu-item {
+  min-width: auto;
+}
+.el-menu--horizontal .el-submenu .el-menu-item:hover {
+  color: #108CEE
+}
+.el-menu--horizontal .el-menu-item a, .el-menu--horizontal .el-menu-item a:hover {
+  display: block
+}

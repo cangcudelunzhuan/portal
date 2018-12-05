@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>拖拽</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M3,3 L3,4.5 C3,4.77614237 2.77614237,5 2.5,5 C2.22385763,5 2,4.77614237 2,4.5 L2,2.5 C2,2.22385763 2.22385763,2 2.5,2 L4.5,2 C4.77614237,2 5,2.22385763 5,2.5 C5,2.77614237 4.77614237,3 4.5,3 L3,3 Z" id="path-1"></path>
+        <path d="M3,9 L4.5,9 C4.77614237,9 5,9.22385763 5,9.5 C5,9.77614237 4.77614237,10 4.5,10 L2.5,10 C2.22385763,10 2,9.77614237 2,9.5 L2,7.5 C2,7.22385763 2.22385763,7 2.5,7 C2.77614237,7 3,7.22385763 3,7.5 L3,9 Z" id="path-2"></path>
+        <path d="M9.5,2 C9.77614237,2 10,2.22385763 10,2.5 L10,4.5 C10,4.77614237 9.77614237,5 9.5,5 C9.22385763,5 9,4.77614237 9,4.5 L9,3 L7.5,3 C7.22385763,3 7,2.77614237 7,2.5 C7,2.22385763 7.22385763,2 7.5,2 L9.5,2 Z" id="path-3"></path>
+        <path d="M9.5,10 L7.5,10 C7.22385763,10 7,9.77614237 7,9.5 C7,9.22385763 7.22385763,9 7.5,9 L9,9 L9,7.5 C9,7.22385763 9.22385763,7 9.5,7 C9.77614237,7 10,7.22385763 10,7.5 L10,9.5 C10,9.77614237 9.77614237,10 9.5,10 Z" id="path-4"></path>
+    </defs>
+    <g id="2_2-应用管理_工作台_吉利数据门户网站" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-521.000000, -466.000000)">
+        <g id="弹窗2" transform="translate(359.000000, 201.000000)">
+            <g id="Group-21" transform="translate(24.000000, 215.000000)">
+                <g id="Group-Copy-13" transform="translate(100.000000, 50.000000)">
+                    <g id="Group-12">
+                        <g id="Group-6">
+                            <g id="Group-29">
+                                <g id="拖拽" transform="translate(38.000000, 0.000000)">
+                                    <path d="M6,0 C2.686,0 0,2.6865 0,6 C0,9.314 2.686,12 6,12 C9.3135,12 12,9.314 12,6 C12,2.6865 9.3135,0 6,0" id="Path" fill="#296AB4"></path>
+                                    <path d="M3,3 L9,9" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
+                                    <path d="M9,3 L3.20674992,8.79325008" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
+                                    <g id="Combined-Shape">
+                                        <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                        <path stroke="#FFFFFF" stroke-width="1" d="M2.5,4.5 L2.5,2.5 L4.5,2.5 L2.5,2.5 L2.5,4.5 Z"></path>
+                                    </g>
+                                    <g id="Combined-Shape">
+                                        <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-2"></use>
+                                        <path stroke="#FFFFFF" stroke-width="1" d=""></path>
+                                    </g>
+                                    <g id="Combined-Shape">
+                                        <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-3"></use>
+                                        <path stroke="#FFFFFF" stroke-width="1" d="M9.5,2.5 L7.5,2.5 L9.5,2.5 L9.5,4.5 L9.5,2.5 Z"></path>
+                                    </g>
+                                    <g id="Combined-Shape">
+                                        <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-4"></use>
+                                        <path stroke="#FFFFFF" stroke-width="1" d=""></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

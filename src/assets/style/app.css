@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+a {
+  cursor: pointer;
+  text-decoration: none;
+}
+a:link,a:visited,a:hover,a:active {
+  color: #fff
+}
+html, body {
+  height: 100%;
+  -webkit-user-select:none;
+  -moz-user-select:none; 
+  -ms-user-select:none; 
+  user-select:none;
+}
+ul li {
+  list-style-type: none;
+  text-align: left
+}
+/*滚动条样式*/
+body ::-webkit-scrollbar {
+  height: 10px;
+  width: 8px
+}
+body ::-webkit-scrollbar-track {
+  background: 0 0;
+}
+body ::-webkit-scrollbar-thumb:hover {
+  background-color: #666;
+}
+body ::-webkit-scrollbar-corner {
+  background-color: transparent;
+}
+body ::-webkit-scrollbar-thumb {
+  border-radius: 5px;
+  background-color: #ddd;
+}

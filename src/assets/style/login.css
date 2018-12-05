@@ -1,0 +1,20 @@
+/*登录页，登录表单，图标样式*/
+.login-form .el-input__icon+.el-input__inner {
+  padding-left: 35px;
+  padding-right: 3px;
+}
+.login-form .form-item i:before {
+  content: none;
+}
+.login-form .form-item i {
+  background-repeat: no-repeat;
+  background-position: center center;
+  left: 0;
+  right: auto;
+}
+.login-form .form-item.username i {
+  background-image: url(../../assets/images/login_user.png);
+}
+.login-form .form-item.password i {
+  background-image: url(../../assets/images/login_password.png);
+}
